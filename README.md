@@ -1,2 +1,22 @@
-# GlobalCart
-GlobalCart is a modern Android shopping application designed to provide a fast, intuitive, and scalable e-commerce experience. The app focuses on seamless product browsing, smart cart management, and a user-friendly interface built with modern Android development practices.
+# GlobalCart 🛒🌍
+
+GlobalCart is a modern Android shopping application designed to deliver a fast, intuitive, and scalable e-commerce experience.
+
+## Features
+- Product browsing and search
+- Shopping cart management
+- User-friendly UI
+- Scalable architecture
+
+## Tech Stack
+- Android (Kotlin)
+- Jetpack Compose
+- MVVM Architecture
+- Firebase / REST API (planned)
+
+## Team
+- Davlatbek Mamadaliev – Project Lead
+- Zafarbek Yo'ldashev
+
+## Status
+🚧 In active development
