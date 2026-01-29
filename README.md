@@ -16,7 +16,7 @@ GlobalCart is a modern Android shopping application designed to deliver a fast, 
 
 ## Team
 - Davlatbek Mamadaliev – Project Lead
-- Zafarbek Yo'ldashev
+- Zafarbek Yuldashev
 
 ## Status
 🚧 In active development
